@@ -1,1 +1,1 @@
-# TryHackMe-Notes
+# TryHackMe Learning Paths
