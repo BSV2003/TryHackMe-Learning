@@ -21,11 +21,11 @@ gobuster -u http://fakebank.thm -w wordlist.txt dir
 ```
 
 #### Command Breakdown
-| |Description|
-|-----------|------------------|
-|`-u` → URL | Target URL|
-|`-w` → Wordlist | Wordlist containing possible directory names|
-|`dir` → Mode | Directory brute-forcing mode|
+| |      |Description|
+|-----------|------|------------------|
+|`-u` | URL | Target URL|
+|`-w` | Wordlist | Wordlist containing possible directory names|
+|`dir` | Mode | Directory brute-forcing mode|
 
 ### Output
 ```
